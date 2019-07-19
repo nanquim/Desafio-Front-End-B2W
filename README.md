@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+And is also avaiable here: https://desafio-b2w.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
