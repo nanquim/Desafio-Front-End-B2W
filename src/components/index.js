@@ -18,14 +18,13 @@ export const Container = styled.div`
   `
 export const Name = styled.div`
   width: 100%;
+  margin-bottom: 5vh;
   padding: 3px;
-  font-size: 1.5em;
   text-align: center;
   transform: perspective(500px) rotateX(30deg) scaleY(1.20);
 `
 export const Info = styled.div`
   padding: 3px;
-  font-size: 4vh;
   transform: perspective(500px) rotateX(30deg) scaleY(1.20);
 `
 

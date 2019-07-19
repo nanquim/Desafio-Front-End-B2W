@@ -2,6 +2,8 @@ body{
   background-image: url("bg.jpg");
   color: yellow;
   overflow: hidden;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3vh;
 }
 
 #root {
